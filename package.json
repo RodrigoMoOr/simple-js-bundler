@@ -1,0 +1,16 @@
+{
+  "name": "simple-js-bundler",
+  "version": "1.0.0",
+  "description": "Simple JavaScript Module Bundler",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoMoOr/simple-js-bundler.git"
+  },
+  "author": "Rodrigo Morales <rodrigomoralesdev@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/RodrigoMoOr/simple-js-bundler/issues"
+  },
+  "homepage": "https://github.com/RodrigoMoOr/simple-js-bundler#readme"
+}
